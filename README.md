@@ -1,4 +1,4 @@
-# Modular Slam Robot
+# Modular Mobile Robot
 
 ## Project summary
 
