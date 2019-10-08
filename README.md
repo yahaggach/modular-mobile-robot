@@ -11,7 +11,7 @@ This project focuses on localization based experiments (e.g echolocation SLAM) a
   <img src="https://raw.githubusercontent.com/yahaggach/modular-mobile-robot/master/readme-pics/architecture.PNG" width="350" title="Robot General Architecture">
 </p>  
 
-The robot was developped at EPFL (École Polytechnique Fédérale de Lausanne), under LCAV (Audiovisual Communications Laboratory) supervision, and tested on two separate experiments : EchoSLAM and Indoor Wifi localization.  
+The robot was developped at LCAV (Audiovisual Communications Laboratory) of EPFL (École Polytechnique Fédérale de Lausanne) under supervision of : Dümbgen Frederike, Krekovic Miranda and Pacholska Michalina. The robot was tested on two separate experiments : EchoSLAM and Indoor Wifi localization.  
 
 
 ## Robot technical summary
